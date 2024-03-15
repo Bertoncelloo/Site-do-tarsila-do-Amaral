@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Jovens Frustrados</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #fff;
+    }
+
+    header {
+      background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqEbaLzFDo6yuSPvvvEhHkRO4hkBgGv2KYN0dwS5Q8kOplhZxE_OwIK94&s=10');background-size: cover;background-repeat: no-repeat;"><div><input type="date" value="0000-00-00" style="
+    color: #000000;
+    background-color: #000000d9;
+"></div>
+      background-color: #000000d9;
+      color: #efeded;
+      padding: 100px 0;
+      
+    }
+
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #222;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto;
+      border-radius: 8px;
+    }
+
+    article {
+      margin-top: 20px;
+      line-height: 1.6;
+      font-family: 'Roboto Serif', serif;
+    }
+
+    small {
+      font-size: 12px;
+      display: block;
+      margin-top: 20px;
+      color: #fff;
+      text-align: center;
+    }
+
+    a {
+      color: #ff0;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpnQY2J4cgbHjTQ3QkBGATXQSYA7rDHRxXmnWrpJGZcDPY7oBNZjFbn_63&s=10');background-size: cover;background-repeat: no-repeat;"><div><input type="date" value="0000-00-00" style="
+    color: #efeded;
+    background-color: #000000d9;
+"></div>
+      background-color: #4CAF50;
+      padding: 60px 0;
+      
+      border-radius: 0 0 8px 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+
+  </header>
+
+  <main>
+
+    <article>
+      <h2>Adolescentes e Frustração</h2>
+      <p>A adolescência é uma fase complexa repleta de desafios e mudanças. Muitos jovens se deparam com situações que podem gerar sentimentos de frustração. Questões como pressões acadêmicas, preocupações com o futuro, relacionamentos interpessoais e autoimagem contribuem para esse fenômeno.</p>
+      
+      <p>A incapacidade de atender às expectativas, sejam impostas pelos outros ou autoimpostas, pode levar à frustração. É importante reconhecer esses sentimentos e buscar maneiras construtivas de lidar com eles. A comunicação aberta com amigos, familiares ou profissionais pode ser fundamental.</p>
+
+      <p>Além disso, promover a consciência emocional e a resiliência é crucial. Os adolescentes podem aprender a enfrentar desafios de maneira mais positiva, desenvolvendo habilidades de resolução de problemas e estabelecendo metas realistas.</p>
+
+      <p>É vital destacar que a busca por ajuda não é sinal de fraqueza, mas sim de coragem e autocompreensão. A orientação de adultos, mentores ou psicólogos pode fornecer apoio significativo durante esse período de transição.</p>
+    </article>
+  </main>
+
+  <footer>
+    <small>Siga-nos:</small>
+    <small><a href="https://www.projeto2anoB.com/" target="_blank">Instagram</a>, <a href="https://www.projeto2anoB.com/" target="_blank">Facebook</a></small>
+  </footer>
+
+</body>
+</html>
